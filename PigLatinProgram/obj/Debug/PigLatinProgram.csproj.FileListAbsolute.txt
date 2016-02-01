@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Programming\C#\PigLatinProgram\PigLatinProgram\bin\Debug\PigLatinProgram.exe.config
+C:\Users\User\Desktop\Programming\C#\PigLatinProgram\PigLatinProgram\bin\Debug\PigLatinProgram.exe
+C:\Users\User\Desktop\Programming\C#\PigLatinProgram\PigLatinProgram\bin\Debug\PigLatinProgram.pdb
+C:\Users\User\Desktop\Programming\C#\PigLatinProgram\PigLatinProgram\obj\Debug\PigLatinProgram.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Programming\C#\PigLatinProgram\PigLatinProgram\obj\Debug\PigLatinProgram.exe
+C:\Users\User\Desktop\Programming\C#\PigLatinProgram\PigLatinProgram\obj\Debug\PigLatinProgram.pdb
+C:\Users\User\Desktop\Programming\C# Projects\PigLatinProgram\PigLatinProgram\bin\Debug\PigLatinProgram.exe.config
+C:\Users\User\Desktop\Programming\C# Projects\PigLatinProgram\PigLatinProgram\obj\Debug\PigLatinProgram.exe
+C:\Users\User\Desktop\Programming\C# Projects\PigLatinProgram\PigLatinProgram\obj\Debug\PigLatinProgram.pdb
+C:\Users\User\Desktop\Programming\C# Projects\PigLatinProgram\PigLatinProgram\bin\Debug\PigLatinProgram.exe
+C:\Users\User\Desktop\Programming\C# Projects\PigLatinProgram\PigLatinProgram\bin\Debug\PigLatinProgram.pdb
+C:\Users\User\Desktop\Programming\C# Projects\PigLatinProgram\PigLatinProgram\obj\Debug\PigLatinProgram.csprojResolveAssemblyReference.cache
